@@ -1,2 +1,3 @@
 # pierwszy_program
-Program sł€ży do wyświetlenia napisu Hello World!
+- Program służy do wyświetlenia napisu Hello World!
+- Napisany w języku Python.
